@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# README.md
-
-### Hi there! 👋
 
 My name is Leon. 
 
