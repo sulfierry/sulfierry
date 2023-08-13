@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Leon. 
 
-- 🧪 I'm interested in biological modeling.
+- 🧪 I'm interested in biological modeling through computational techniques.
 - 🔭 I’m currently working with molecular modeling on bacterial resistance.
 - 📚 Ph.D. student at [LNCC/MCTI](http://gmmsb.lncc.br/) Brazil.
 
