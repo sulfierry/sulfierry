@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Leon. 
 
 - 🧪 I'm interested in biological modeling through computational techniques.
-- 🔭 I’m currently working with molecular modeling on superbugs resistance.
+- 🔭 I’m currently working with molecular modeling of proteins.
 - 📚 Ph.D. student at [LNCC/MCTI](http://gmmsb.lncc.br/) Brazil.
 
 #### You can find me on:
