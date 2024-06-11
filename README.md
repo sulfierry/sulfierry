@@ -20,7 +20,7 @@ My name is Leon.
 
 - 🧪 I'm interested in biological modeling through computational techniques.
 - 🔭 I’m currently working with molecular modeling of proteins.
-- 📚 Ph.D. student at [LNCC/MCTI](http://gmmsb.lncc.br/) Brazil.
+- 📚 Ph.D. student at [LNCC/MCTI](https://www.gov.br/lncc/) Brazil.
 
 #### You can find me on:
 
