@@ -21,8 +21,6 @@ My name is Leon.
 - [Programa de Verão LNCC](https://verao.lncc.br/)
 - [XI Escola de Modelagem Molecular de Sistemas Biológicos](https://www.emmsb.lncc.br/)
 - [II Escola Latino-Americana de Bioinformática](https://www.elab.lncc.br/)
-- [XVI Encontro Acadêmico de Modelagem Computacional](https://eamc.lncc.br/)
-- [Grupo de Modelagem Molecular de Sistemas Biológicos](https://www.gmmsb.lncc.br/)
 
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-sulfierry-3ab903152)
