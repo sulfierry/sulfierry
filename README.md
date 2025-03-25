@@ -27,3 +27,4 @@ My name is Leon.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-sulfierry-3ab903152)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/7182596112371616)
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0003-0423-8043)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Leon-Sulfierry?ev=hdr_xprf)
