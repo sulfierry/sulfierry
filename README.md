@@ -8,7 +8,7 @@ My name is Leon.
 
 ---
 
-## Publications
+### Publications
 
 - [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=QJiIVgEAAAAJ)
 
