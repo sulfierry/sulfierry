@@ -18,6 +18,10 @@ My name is Leon.
 
 - Check out my pinned repositories.
 
+### LLM Project
+
+- [Carcara](https://github.com/gmmsb-lncc/carcara-sdumont)
+
 ### Web Projects
 - [Programa de Verão LNCC](https://verao.lncc.br/)
 - [XI Escola de Modelagem Molecular de Sistemas Biológicos](https://www.emmsb.lncc.br/)
