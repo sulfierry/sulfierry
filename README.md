@@ -4,7 +4,7 @@ My name is Leon.
 
 - 🧪 I'm interested in computational modeling.
 - 🔭 I’m currently researching molecular modeling of proteins and natural language processing.
-- 📚 Ph.D. student at [LNCC/MCTI](https://www.gov.br/lncc/) Brazil.
+- 📚 Ph.D. candidate at [LNCC/MCTI](https://www.gov.br/lncc/) Brazil.
 - 🧬 Working at [(GMMSB)](https://www.gmmsb.lncc.br/).
 
 ---
